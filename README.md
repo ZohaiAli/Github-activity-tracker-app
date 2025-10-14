@@ -21,7 +21,7 @@ Perfect for developers who want to **analyze and showcase their GitHub performan
 
 > 🎨 Example dashboard view
 
-![GitHub Dashboard Screenshot](dashboard_preview.png)
+![GitHub Dashboard Screenshot](assets/dashboard_preview.png)
 
 *(You can replace the above image with your actual screenshot — `assets/dashboard_preview.png`)*
 
@@ -103,3 +103,4 @@ This project is open-source and available under the MIT License.
 ---
 
 Would you like me to make a **README with emojis, badges, and sections auto-centered (like)**
+
